@@ -5,9 +5,9 @@ A simple, elegant, and responsive website for **Om'Sweets**, showcasing a variet
 ---
 
 ## 🖼 Preview
+![Om'Sweets Website](https://github.com/om-prakash416/Html/blob/main/Sweets/image1.png)  
+![Om'Sweets Website](https://github.com/om-prakash416/Html/blob/main/Sweets/image.png)  
 
-![Om'Sweets Website](./assets/omsweets-preview.png)  
-*(Add your actual screenshot image in the `assets` folder and update the path above.)*
 
 ---
 
@@ -33,9 +33,6 @@ A simple, elegant, and responsive website for **Om'Sweets**, showcasing a variet
 
 
 ---
-
-## 🚀 
-![Om'Sweets Website](./assets/omsweets-preview.png)
    
 
 
